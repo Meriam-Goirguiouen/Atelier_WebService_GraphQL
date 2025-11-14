@@ -1,0 +1,6 @@
+com\convene\api\controller\BookGraphQLController.class
+com\convene\api\ConveneApiApplication.class
+com\convene\api\controller\WebController.class
+com\convene\api\model\Book$Category.class
+com\convene\api\model\Book.class
+com\convene\api\service\BookService.class
